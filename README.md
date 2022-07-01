@@ -14,7 +14,7 @@ The 3-legged jacket model has the following member sizes:
 The interface elevation between jacket and turbine has been increased to +30m relative to still water level (compared to +15m in the monopile model). This was considered to be more reprentative for a jacket foundation in 50m water depth.  
 
 ## Soil structure interaction
-The jacket nodes at mudline are modeled with 1GN/m soil springs in the vertical translation direction, while the other degrees of freedem are fixed.
+The jacket nodes at mudline are modeled with 1GN/m soil springs in the vertical translation direction, while the other degrees of freedem for the mudline nodes are fixed.
 
 ## Natural frequency
 The natural frequency of the global model (turbine and jacket) was determined using a free-decay test in OpenFAST. The natural frequency was approximately 0.221 Hz, which falls outside the 1P and 3P frequency range of the IEA 15MW RWT.
