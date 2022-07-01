@@ -8,7 +8,7 @@ The 3-legged jacket model has the following main characteristics:
 - Brace heights: 13m, 15m, 17m, 20m (four bays)
 - Stick-up: 4m
 
-![Main Jacket Dimensions](https://github.com/mmrocze2/IEA-15-240-RWT-Jacket/blob/images/jacketdimensions.JPG?raw=true)
+![Main Jacket Dimensions](https://github.com/mmrocze2/IEA-15-240-RWT-Jacket/blob/main/images/jacketdimensions.JPG?raw=true)
 
 ## Interface Elevation
 The interface elevation between jacket and turbine has been increased to +30m relative to still water level (compared to +15m in the monopile model). This was considered to be more reprentative for a jacket foundation in 50m water depth.  
